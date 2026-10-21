@@ -1,0 +1,7 @@
+Workday
+ ↓
+Integration Layer
+ ├─ Entra ID
+ ├─ ServiceNow
+ ├─ Payroll
+ └─ Email
