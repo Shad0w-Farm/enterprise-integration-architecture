@@ -1,0 +1,13 @@
+Web
+ ↓
+API Gateway
+ ↓
+Order Service
+ ↓
+Kafka
+ ├─ Payment
+ ├─ Inventory
+ ├─ Shipping
+ └─ Notification
+
+Document security, resilience, observability and deployment.
