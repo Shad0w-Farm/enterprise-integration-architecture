@@ -1,0 +1,17 @@
+Mobile
+ ↓
+WAF
+ ↓
+API Gateway
+ ↓
+Payment API
+ ↓
+Event Bus
+ ↓
+Core Banking
+
+OAuth
+mTLS
+HSM/Key Vault
+fraud detection
+audit logging.
