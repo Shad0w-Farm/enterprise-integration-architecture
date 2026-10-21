@@ -33,3 +33,22 @@ Conceptual model:
                     CI/CD / IaC
                            |
                     Observability
+
+My Story:
+Application Security
+        +
+Cloud Security
+        +
+DevOps
+        +
+Cloud Architecture
+        ↓
+API Architecture
+        +
+Integration Architecture
+        +
+Distributed Systems
+        +
+Event Architecture
+        ↓
+Application & Integration Architect
