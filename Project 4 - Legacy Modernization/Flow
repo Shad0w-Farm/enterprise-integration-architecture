@@ -1,0 +1,9 @@
+Design:
+
+Legacy Monolith
+        ↓
+Strangler Pattern
+        ↓
+API Gateway
+        ↓
+Microservices
